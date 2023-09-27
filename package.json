@@ -21,6 +21,7 @@
     "next/tsconfig.json",
     "node/tsconfig.json",
     "node-18/tsconfig.json",
+    "node-18-cjs/tsconfig.json",
     "tsconfig.json"
   ],
   "scripts": {

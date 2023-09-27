@@ -117,6 +117,13 @@ In your `tsconfig.json` file:
 }
 ```
 
+### Node 18 - CommonJS
+```json
+{
+  "extends": "@autossey/tsconfig/node-18-cjs"
+}
+```
+
 <!--BEGIN FOOTER-->
 
 <br />
