@@ -1,5 +1,5 @@
 <!--BEGIN HEADER-->
-<div id="top" align="center">
+<div align="center">
   <h1>@autossey/tsconfig</h1>
   <a href="https://npmjs.com/package/@autossey/tsconfig">
     <img alt="npm" src="https://img.shields.io/npm/v/@autossey/tsconfig.svg">
@@ -28,7 +28,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 ---
 <!--END HEADER-->
 
-## Install
+## Installation
 
 <details open>
   <summary>
@@ -121,7 +121,7 @@ In your `tsconfig.json` file:
 
 <br />
 
-<h2 id="dependencies">Dependencies<a href="https://www.npmjs.com/package/@autossey/tsconfig?activeTab=dependencies"><img align="right" alt="dependencies" src="https://img.shields.io/librariesio/release/npm/@autossey/tsconfig.svg"></a></h2>
+<h2>Dependencies<a href="https://www.npmjs.com/package/@autossey/tsconfig?activeTab=dependencies"><img align="right" alt="dependencies" src="https://img.shields.io/librariesio/release/npm/@autossey/tsconfig.svg"></a></h2>
 
 - [@types/node](https://www.npmjs.com/package/@types/node): TypeScript definitions for Node.js
 - [bun-types](https://www.npmjs.com/package/bun-types): Type definitions for Bun, an incredibly fast JavaScript runtime
@@ -134,7 +134,7 @@ In your `tsconfig.json` file:
 
 <br />
 
-<h2 id="license">License <a href="https://opensource.org/licenses/MIT"><img align="right" alt="license" src="https://img.shields.io/npm/l/@autossey/tsconfig.svg"></a></h2>
+<h2>License <a href="https://opensource.org/licenses/MIT"><img align="right" alt="license" src="https://img.shields.io/npm/l/@autossey/tsconfig.svg"></a></h2>
 
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT) - _The MIT License_
 <!--END FOOTER-->
