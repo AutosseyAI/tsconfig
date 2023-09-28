@@ -11,7 +11,7 @@
 
 <br />
 
-<blockquote align="center">A collection of base TSConfigs for various project types.</blockquote>
+<blockquote align="center">A collection of base TSConfigs for various types of projects.</blockquote>
 
 <br />
 
