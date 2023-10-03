@@ -8,6 +8,7 @@
     ],
     "module": "ESNext",
     "moduleResolution": "Bundler",
+    "noEmit": true,
     "target": "ESNext",
     "types": [
       "bun-types"
